@@ -1,8 +1,8 @@
 # auto-cleaning-printer
 
-Project with bat file to clean printer
+Project with bat file to clean printer using http://www.sumatrapdfreader.org/manual.html
 
-
+This is bat file :)
 
 @echo off
 :A
